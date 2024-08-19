@@ -94,6 +94,7 @@ a:hover {
 .primary-link {
   border-radius: 4px;
   padding: 20px 15px;
+  margin-bottom: 10px;
   text-decoration: none;
   text-transform: capitalize;
   background: var(--primary-color);
